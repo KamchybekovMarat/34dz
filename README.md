@@ -1,3 +1,3 @@
 My simple Todo project
 
-Developer: Zhantai Ismailov
+Developer: Kamchybekov Marat
